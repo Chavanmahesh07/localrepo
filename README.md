@@ -8,3 +8,7 @@ Syncing with GitHub (origin)
 • git push — Pushes subsequent local commits to the tracked remote branch.
 • git pull — Fetches changes from GitHub and merges them into your current local branch.
 • git fetch — Downloads remote updates without automatically merging them into your local files.
+
+git branch -M main  --use command to change name into main branch
+
+git push -u origin main  -- use command to short cut next time use only (git push)
